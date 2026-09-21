@@ -4,6 +4,8 @@ import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  base: "/Seva-Bot/",
+
   plugins: [
     react(),
     tailwindcss(),
