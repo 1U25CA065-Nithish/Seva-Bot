@@ -1,0 +1,17 @@
+{
+  "name": "Seva bot — Approvals & Compliance",
+  "short_name": "Seva bot",
+  "description": "Offline industrial approvals and compliance management.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#1e2b3d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
